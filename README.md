@@ -1,5 +1,5 @@
 # QuickChat_MERN.zip
-QuickChat is a real-time chat application built using the MERN stack. It supports instant messaging, real-time notifications, and a dark/light mode toggle for an enhanced user experience.
+QuickChat is a real-time chat application built using the MERN stack. It supports instant messaging, real-time notifications, and a dark/light mode toggle for an enhanced user experience.</n></n>
 **Tech Stack****
 **🌐 Frontend**
 React.js – Component-based UI
